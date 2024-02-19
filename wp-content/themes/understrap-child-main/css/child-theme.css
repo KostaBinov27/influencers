@@ -15120,6 +15120,8 @@ figure.woocommerce-product-gallery__wrapper {
   max-width: 85% !important;
   max-height: 85%;
   overflow: scroll;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 .modal-content {
